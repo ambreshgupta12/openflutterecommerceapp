@@ -103,6 +103,7 @@ class _MyHomeState extends State<MyHome> {
         elevation: AppSizes.appBarElevation,
         leading: BackButton(
           color: AppColors.black,
+
         ),
         actions: <Widget>[
           IconButton(
